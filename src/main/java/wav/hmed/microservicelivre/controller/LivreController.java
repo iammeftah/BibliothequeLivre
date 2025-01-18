@@ -11,6 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/livres")
+@CrossOrigin(origins = "*", allowedHeaders = "*") // Allow all origins and headers
 public class LivreController {
 
     @Autowired
