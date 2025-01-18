@@ -1,0 +1,5 @@
+wav/hmed/microservicelivre/service/LivreService.class
+wav/hmed/microservicelivre/controller/LivreController.class
+wav/hmed/microservicelivre/repository/LivreRepository.class
+wav/hmed/microservicelivre/model/Livre.class
+wav/hmed/microservicelivre/MicroserviceLivreApplication.class
